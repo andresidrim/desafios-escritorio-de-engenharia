@@ -1,6 +1,6 @@
 <h1>Resoluções dos desafios do escritorio de engenharia</h1>
 <h2>Desafios solucionados:</h2>
-<a href="/tree/master/Fibonacci">Sequencia de fibonacci (usando laços de repetição)</a><br/>
+<a href="/Fibonacci">Sequencia de fibonacci (usando laços de repetição)</a><br/>
 <p><h3>Proposta:</h3>
 A sequência de Fibonacci sempre inicia com os números 0
 e 1. No nosso caso, o usuário pode escolher quantos
@@ -16,7 +16,7 @@ da sequência.
 * Usar laços de repetição
 
 <br/>
-<a href="/tree/master/CalcFrete">Calculadora de frete (usando funções)</a><br/>
+<a href="/CalcFrete">Calculadora de frete (usando funções)</a><br/>
 <p><h3>Proposta:</h3>
 Imagine que você está construindo um sistema de
 comércio eletrônico e precisa calcular o custo de envio de
@@ -38,7 +38,7 @@ total do frete.
 * Calculo do frete deve ser feito multiplicando o peso e a distância e somando a taxa fixa do tipo do frete
 
 <br/>
-<a href="/tree/master/Fatorial">Calculadora de fatorial (usando funções & laços de repetição)</a><br/>
+<a href="/Fatorial">Calculadora de fatorial (usando funções & laços de repetição)</a><br/>
 <p><h3>Proposta:</h3>
 Use funções e laços de repetição para calcular o
 fatorial de um valor n
@@ -50,7 +50,7 @@ fatorial de um valor n
 * Usar funções e laços de repetição
 
 <br/>
-[Jogo batalha de turnos (usando funções & laços de repetição)](BatalhaTurnos)
+<a href="/BatalhaTurnos">Jogo batalha de turnos (usando funções & laços de repetição)</a>
 <p><h3>Proposta:</h3>
 Criar um jogo que rode no terminal, baseado em batalhas de turno
 </p>
