@@ -50,7 +50,7 @@ fatorial de um valor n
 * Usar funções e laços de repetição
 
 <br/>
-<a href="/tree/master/BatalhaTurnos">Jogo batalha de turnos (usando funções & laços de repetição)</a>
+<a href="tree/master/BatalhaTurnos">Jogo batalha de turnos (usando funções & laços de repetição)</a>
 <p><h3>Proposta:</h3>
 Criar um jogo que rode no terminal, baseado em batalhas de turno
 </p>
